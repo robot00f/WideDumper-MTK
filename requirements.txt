@@ -1,0 +1,7 @@
+frida>=16.0.0
+frida-tools>=12.0.0
+pycryptodome>=3.20
+pywidevine>=1.9.0
+pymp4>=1.14.0
+construct>=2.10
+protobuf>=5.26
