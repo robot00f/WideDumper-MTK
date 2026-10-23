@@ -1,0 +1,15 @@
+# Never commit extracted material — it's tied to your physical device
+dumps/*
+!dumps/.gitkeep
+device.wvd
+*.wvd
+*.der
+*.pem
+*.key
+cert.bin
+ay64.dat
+*.ps1
+
+__pycache__/
+*.pyc
+.DS_Store
